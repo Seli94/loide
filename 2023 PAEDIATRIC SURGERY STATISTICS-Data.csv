@@ -1,0 +1,443 @@
+Year,Month,Age ,Sex,Operation,Surgeon
+2023,January,4 years,F,Fasciotomy,Hausiku
+2023,January,6 years,Female,FB removal,Nyambe
+2023,January,6 months,Male,I & D,Hausiku
+2023,January,2 years ,Female,FB removal,Nduw
+2023,January,8 years ,Female,? Secondary suture,Nduw
+2023,January,4 years,Female,Biopsy,Kabongo
+2023,January,3 years,Male,FB removal,Luboobi
+2023,January,12 years,Female,Fasciotomy,Kabongo
+2023,January,2 years ,Male,Debridement,Chaziya
+2023,January,10 years,Male,Tonsillo-adenoidectomy,Chaziya
+2023,January,12 years,Female,Tonsillectomy,Chaziya
+2023,January,9 months ,Male,Herniotomy,Chaziya
+2023,February,12 years ,Female,Tonsillectomy,Chaziya
+2023,February,10 years,Female,Sis Trunk Procedure,Chaziya
+2023,February,11 years,Female,Herniotomy,Chaziya
+2023,February,4 years,Female,Biopsy,Chaziya
+2023,February,9 years,Female,Herniotomy,Kabongo
+2023,February,8 years,Female,I & D,Kabongo
+2023,February,12 years,Female,Skin graft,Kabongo
+2023,February,3 years,Male,Hydrocelectomy,Chaziya
+2023,February,2 years ,Male,Cystojejunostomy,Chaziya
+2023,February,3 years,Female,Herniotomy,Chaziya
+2023,February,9 years,Male,Hydrocelectomy,Chaziya
+2023,February,8 years,Female,Split Sigmoid Colostomy,Chaziya
+2023,February,4 years,Male,FB removal,Hausiku
+2023,February,2 years and 9 months,Female,FB removal,Ndomba
+2023,February,2 years ,Male,Hydrocelectomy,Chaziya
+2023,February,1 month,Female,Rectal Biopsy,Chaziya
+2023,February,7 years,Female,Biopsy,Shapaka
+2023,February,1 month,Male,Herniotomy,Chaziya
+2023,February,9 years,Male,Contracture release,Chaziya
+2023,February,9 months ,Male,Herniotomy,Chaziya
+2023,February,9 years,Male,Rectal Biopsy,Chaziya
+2023,February,5 years,Male,Tonsillectomy,Chaziya
+2023,February,2 years ,Male,FB removal,Shapaka
+2023,February,2 years ,Male,FB removal,Chaziya
+2023,February,9 months ,Male,Scrotal Haematoma Evac.,Chaziya
+2023,February,13 years,Male,FB removal,Chaziya
+2023,February,8 years,Female,Skin graft,Chaziya
+2023,February,9 years,Male,Debridement,Kabongo
+2023,February,4 years,Male,Circumcision,Chaziya
+2023,February,2 years ,Male,Stitch removal,Chaziya
+2023,February,1 year 9 months,Male,Hydrocelectomy,Chaziya
+2023,February,15 years,Female,Tonsillectomy,Chaziya
+2023,February,6 years,Male,Circumcision,Chaziya
+2023,February,12 years ,Male,Appendectomy,Mbidi
+2023,February,5 years,Male,Herniotomy,Chaziya
+2023,February,4 years,Male,Hydrocelectomy,Chaziya
+2023,February,7 years,Female,Biopsy,Chaziya
+2023,February,12 years,Male,Ileostomy reversal,Luboobi
+2023,March,1 year,Male,Orthoplasty,Chaziya
+2023,March,5 years,Male,Herniotomy & Orchidopexy,Shapaka
+2023,March,7 years,Female,Tonsillectomy,Chaziya
+2023,March,9 years,Male,Herniotomy,Chaziya
+2023,March,10 years,Male,Fasciotomy,Bayela
+2023,March,13 years,Male,Bladder repair and perineal exploration,Chaziya
+2023,March,1 year,Male,Herniotomy,Chaziya
+2023,March,2 years ,Male,Herniotomy,Chaziya
+2023,March,6 years,Male,?,Chaziya
+2023,March,7 years,Male,?,Chaziya
+2023,March,5 years,Male,FB removal,Kabongo
+2023,March,2w,Female,Rectal Biopsy,Chaziya
+2023,March,3 months,Male,Herniotomy,Chaziya
+2023,March,4 years,Male,Herniotomy & Hydrocectomy,Chaziya
+2023,March,2 years ,Male,Herniotomy,Chaziya
+2023,March,7 years,Female,Herniotomy,Chaziya
+2023,March,8 years,Male,Hydrocelectomy,Chaziya
+2023,March,8 years,Female,Debridement,Luboobi
+2023,March,5 years,Female,Herniotomy,Chaziya
+2023,March,5 years,Female,FB removal,Kabongo
+2023,March,7 years,Male,Herniotomy,Chaziya
+2023,March,9 years,Female,Biopsy,Chaziya
+2023,March,6 years,Male,Herniotomy & Orchidopexy,Chaziya
+2023,March,11 years,Male,Herniotomy,Chaziya
+2023,March,8 years,Female,Biopsy,Nyambe
+2023,March,2 years ,Male,FB removal,Nyambe
+2023,March,13 years,Female,Appendectomy,Nyambe
+2023,March,11 years,Male,Exploratory Lap.,Chaziya
+2023,March,11 years,Male,Hydrocelectomy,Chaziya
+2023,March,8 years,Male,Hydrocelectomy,Chaziya
+2023,March,8 years,Female,FB removal,Shapaka
+2023,March,2 years ,Male,Biopsy,Chaziya
+2023,March,8 years,Male,Hydrocelectomy,Chaziya
+2023,March,2 years ,Male,Herniotomy,Chaziya
+2023,March,8 years,Male,Hydrocelectomy,Chaziya
+2023,March,2 years ,Male,Herniotomy,Chaziya
+2023,March,3d,Male,Split Sigmoid Colostomy,Chaziya
+2023,March,1 year,Male,Contracture release,Chaziya
+2023,March,10 months,Male,Contracture release,Chaziya
+2023,March,2 years ,Male,Hydrocelectomy,Chaziya
+2023,March,3 years,Male,Biopsy,Chaziya
+2023,March,4 years,Male,I & D,Chaziya
+2023,March,3 years,Male,TIP Procedure,Chaziya
+2023,March,11 years,Male,Herniotomy,Chaziya
+2023,March,12 years ,Male,Fasciotomy,Nduw
+2023,March,14 years,Male,?,Chaziya
+2023,March,?,Male,Herniotomy,Chaziya
+2023,March,1 year 2 months,Male,Hydrocelectomy,Chaziya
+2023,March,6 years,Male,Herniotomy,Chaziya
+2023,March,8 years,Female,ASARP due to ARM,Chaziya
+2023,April,4 years,Male,Anal dilatation,Chaziya
+2023,April,8 years,Female,Skin graft,Chaziya
+2023,April,14 years,Male,FB removal,Chaziya
+2023,April,3 years,Female,Tonsillectomy,Chaziya
+2023,April,9 years,Female,Herniotomy,Chaziya
+2023,April,4 years,Male,Sacrococcygeal Teratoma Excison,Chaziya
+2023,April,1 year,Female,Debridement,Chaziya
+2023,April,9 months ,Male,I & D,MI
+2023,April,1w 2d,Female,CVP insertion,Chaziya
+2023,April,2 years ,Male,Exploratory Lap. & Cystostomy,Chaziya
+2023,April,5 months,Male,Colostomy,Chaziya
+2023,April,4 years,Male,FB removal,Nduw
+2023,April,5 months,Male,CVP insertion,Chaziya
+2023,April,5 years,Male,FB removal,Chaziya
+2023,April,1 year 3 months,Female,I & D,MI
+2023,April,2 years ,Female,FB removal,Ndomba
+2023,April,7 years,Male,Exploratory Lap. Intussusception,Chaziya
+2023,April,8 years,Male,Fasciotomy,Nyamutukwa
+2023,April,4 years,Male,Stoma reversal,Chaziya
+2023,April,5 years,Male,Hydrocelectomy,Chaziya
+2023,April,6 years,Male,Hydrocelectomy,Chaziya
+2023,April,14 years,Male,Hydrocelectomy,Chaziya
+2023,April,1 year 8 months,Female,Herniotomy,Nduw
+2023,April,11 years,Male,Skin graft,Carlos
+2023,April,6 years,Female,FB removal,Hausiku
+2023,April,12 years ,Male,Hydrocelectomy,Chaziya
+2023,April,13 years,Male,Hydrocelectomy,Chaziya
+2023,April,7 years,Male,Appendectomy,Hausiku
+2023,April,12 years,Male,Secondary Wound Closure,Mbidi
+2023,April,6 years,Male,Biopsy,Chaziya
+2023,April,16 months,Male,Herniotomy,Chaziya
+2023,April,5 years,Male,Herniotomy,Chaziya
+2023,April,5 years,Male,Herniotomy,Chaziya
+2023,April,3 years,Male,Stitch removal,Chaziya
+2023,April,6 years,Female,Ear Waxol instillation ,Nyambe
+2023,April,2 years ,Male,Hydrocelectomy,Chaziya
+2023,April,2 years ,Male,Orchidopexy,Chaziya
+2023,April,3 years,Female,Herniotomy,Chaziya
+2023,April,5 years,Female,Tonsillectomy,Chaziya
+2023,April,16 months,Female,Herniotomy,Chaziya
+2023,May,9 years,Male,FB removal,Chaziya
+2023,May,1 month,Male,Herniotomy,Chaziya
+2023,May,19 months,Female,I & D,Shapaka
+2023,May,3 years,Female,FB removal,Nduw
+2023,May,10 years,Female,Herniotomy,Nyambe
+2023,May,2 years ,Male,FB removal,Nyambe
+2023,May,5 years,Female,I & D,Shapaka
+2023,May,3 years,Male,FB removal,Shapaka
+2023,May,5 years,Female,FB removal,Shapaka
+2023,May,3 years,Male,Stoma reversal,Chaziya
+2023,May,3 years,Male,Dermoid cyst excision,Chaziya
+2023,May,1 year,Male,Circumcision,Chaziya
+2023,May,8 years,Male,Herniotomy,Chaziya
+2023,May,17 months,Male,Nephrostomy tube Insertion,Chaziya
+2023,May,3 years,Female,Biopsy,Chaziya
+2023,May,6 years,Male,Excision & Cauterisation of Pyogenic granuloma,Chaziya
+2023,May,6 years,Female,Tonsillectomy,Chaziya
+2023,May,12 years,Female,Appendectomy,Hausiku
+2023,May,11 months,Male,Debridement,Chaziya
+2023,May,8 months,Female,Herniotomy,Luboobi
+2023,May,2 years ,Male,Adeloye Cyst Excision,Chaziya
+2023,May,2 years ,Male,Circumcision,Chaziya
+2023,May,4 years,Male,Biopsy,Chaziya
+2023,May,4 years,Female,Herniotomy,Chaziya
+2023,May,4 years,Male,Biopsy,Chaziya
+2023,May,10 years,Male,Biopsy,Chaziya
+2023,May,1d,Female,"Silo application, Gastroschisis",Chaziya
+2023,May,9 years,Female,Herniotomy,Chaziya
+2023,May,5d,Female,"Sclerotherapy, Cystic hygroma",Chaziya
+2023,May,3 years,Male,Biopsy,Chaziya
+2023,May,7 years,Female,Herniotomy,Chaziya
+2023,May,2 years ,Male,I & D,Chaziya
+2023,June,5 years,Female,FB removal,Nyamutukwa
+2023,June,9 months ,Female,I & D,Nyamutukwa
+2023,June,5 years,Female,EUA,Chaziya
+2023,June,6 months,Female,Herniotomy,Chaziya
+2023,June,4 years,Male,"EUA, haemorrhoid thrombectomy",Chaziya
+2023,June,9 years,Female,Stoma reversal,Chaziya
+2023,June,4 years,Male,Orchidopexy,Chaziya
+2023,June,2 years ,Male,Hydrocelectomy,Chaziya
+2023,June,2 years ,Male,Sis Trunk Procedure,Chaziya
+2023,June,4 years,Male,Orchidopexy,Chaziya
+2023,June,8 months,Male,Exploratory Lap. & Colostomy,Chaziya
+2023,June,9 years,Female,Biopsy,Chaziya
+2023,June,1 year,Female,Herniotomy,Chaziya
+2023,June,7 years,Male,Orchidopexy,Chaziya
+2023,June,8 years,Female,Tonsillectomy,Chaziya
+2023,June,12 years,Male,Herniotomy & Orchidopexy,?
+2023,June,4 years,Female,Exploratory Lap. Small bowel Atresia,Chaziya
+2023,June,3 years,Female,FB removal,Ndomba
+2023,June,1 year,Female,Herniotomy,Rengura
+2023,June,1 year,Male,Circumcision,Chaziya
+2023,June,2 years ,Male,Herniotomy,Chaziya
+2023,June,10 years,Male,"EUA, nerve stimulation of neo-anus",Rengura
+2023,June,6 years,Female,Tonsillectomy,Chaziya
+2023,June,4 years,Female,Herniotomy,Rengura
+2023,June,1 year,Female,Herniotomy,Chaziya
+2023,June,10 years,Male,Circumcision,Rengura
+2023,June,12 years,Male,Circumcision,Rengura
+2023,June,11 years,Male,Herniotomy,Chaziya
+2023,June,3 months,Male,Loopogram of mucoid Fistula,Chaziya
+2023,June,7 years,Female,Herniotomy,Rengura
+2023,June,4 months,Female,Hemicolectomy & Stoma formation,Chaziya
+2023,June,9 years,Female,Herniotomy,Rengura
+2023,June,5 years,Male,Herniotomy,Chaziya
+2023,June,10 years,Male,Circumcision & Anal tag excision,Rengura
+2023,June,5 years,Female,Herniotomy,Luboobi
+2023,June,6 years,Female,Tonsillectomy,Chaziya
+2023,June,12 years,Male,Circumcision,Luboobi
+2023,June,13 years,Male,Herniotomy & Circumcision,Rengura
+2023,June,3 months,Male,PSARP due to ARM,Chaziya
+2023,June,2 years and 10 months,Female,EUA Perineum,Chaziya
+2023,June,4 years,Male,Herniotomy & Hydrocectomy,Rengura
+2023,June,5 years,Male,Herniotomy,Rengura
+2023,June,8 years,Male,Herniotomy,Chaziya
+2023,June,8 years,Female,Excision of Anterior neck cyst,Rengura
+2023,June,9 years,Male,Hydrocelectomy,Chaziya
+2023,June,12 years,Male,Hydrocelectomy,Chaziya
+2023,June,10 years,Male,Herniotomy,Rengura
+2023,June,10 years,Male,Redo- PSARP,Rengura
+2023,June,11 years,Male,Herniotomy,Rengura
+2023,June,1 year,Male,Circumcision,Chaziya
+2023,June,8 years,Female,Herniotomy,Chaziya
+2023,June,?,Male,Biopsy,Rengura
+2023,June,5 years,Female,Tonsillectomy,Chaziya
+2023,June,6 years,Male,Hydrocelectomy,Rengura
+2023,June,2 years ,Female,ASARP due to ARM,Chaziya
+2023,June,6 years,Female,Tonsillectomy,Chaziya
+2023,June,8 years,Female,Herniotomy,Rengura
+2023,June,10 years,Male,Circumcision,Rengura
+2023,June,10 years,Male,Hydrocelectomy,Chaziya
+2023,July,16 months,Male,Circumcision,Chaziya
+2023,July,4 months,Female,Herniotomy,Chaziya
+2023,July,5 years,Male,Tongue Tie removal,Chaziya
+2023,July,12 years,Female,Lipoma excision,Chaziya
+2023,July,4 years,Male,FB removal,Ndomba
+2023,July,10 years,Male,Anal dilatation,Chaziya
+2023,July,2 years ,Female,Anal dilatation,Chaziya
+2023,July,8 years,Male,Tonsillectomy,Chaziya
+2023,July,2 years ,Male,Tubularized Incised Urethroplasty,Chaziya
+2023,July,6 years,Male,Tonsillectomy,Chaziya
+2023,July,4 years,Female,Biopsy,Chaziya
+2023,July,17 months,Female,Lipoma excision,Chaziya
+2023,July,5 years,Male,Orchidopexy,Chaziya
+2023,July,8 years,Male,Hydrocelectomy,Chaziya
+2023,July,12 years,Male,Circumcision,Chaziya
+2023,July,2 years ,Male,Herniotomy,Chaziya
+2023,July,9 years,Female,Exploratory Lap.,Chaziya
+2023,July,9 years,Male,Tonsillectomy,Chaziya
+2023,July,3 years,Male,Tonsillectomy,Chaziya
+2023,July,4 years,Female,Herniotomy,Chaziya
+2023,July,9 years,Female,Herniotomy,Chaziya
+2023,July,4 years,Male,Hydrocelectomy,Chaziya
+2023,July,?,Male,FB removal,Ndomba
+2023,July,12 years,Female,Appendectomy,Shapaka
+2023,July,4 years,Male,Tonsillectomy,Chaziya
+2023,July,10 years,Male,Circumcision,Chaziya
+2023,July,11 years,Male,EUA,Chaziya
+2023,July,4 years,Female,FB removal,Chaziya
+2023,July,3 years,Male,Hydrocelectomy,Chaziya
+2023,July,1 year,Male,Herniotomy & Orchidopexy,Chaziya
+2023,July,9 years,Female,Arm exploration,Chaziya
+2023,July,1w 5d,Male,Herniotomy & Hydrocectomy,Chaziya
+2023,July,5 years,Male,Excision of Neurofibroma,Chaziya
+2023,July,11 years,Male,Anal dilatation,Chaziya
+2023,August,10 years,Female,Exploratory Lap. Appendicitis,Chaziya
+2023,August,4 years,Female,Biopsy,MI
+2023,August,11 years,Male,Anal dilatation,MI
+2023,August,3 months,Female,I & D,Nyamutukwa
+2023,August,1 year,Female,I & D,Nduw
+2023,August,1 year,Female,Herniotomy,Chaziya
+2023,August,3d,Female,"Thoracotomy, DOTT",Chaziya
+2023,August,2 years ,Male,Urethral dilatation & urethral fistula dilatation,Chaziya
+2023,August,4 months,Male,Stoma reversal,Chaziya
+2023,August,2 years ,Male,Herniotomy,Chaziya
+2023,August,8 years,Male,Herniotomy,Chaziya
+2023,August,7 years,Male,Hydrocelectomy,Chaziya
+2023,August,9 years,Female,Biopsy,Kabongo
+2023,August,4 years,Male,Herniotomy,Chaziya
+2023,August,3 months,Female,Excision of Nasal Tag,Chaziya
+2023,August,?,Male,Cystolithotomy,Chaziya
+2023,August,11 years,Male,Hydrocelectomy,Chaziya
+2023,August,7 years,Male,Herniotomy,Chaziya
+2023,August,12 years ,Male,I & D,Nyamutukwa
+2023,August,5 years,Female,Tonsillectomy,Chaziya
+2023,August,12 years ,Male,"Thoracotomy, pleurodesis",Chaziya
+2023,August,7 years,Male,Orchidopexy,Chaziya
+2023,August,7 years,Female,FB removal,Chaziya
+2023,August,5 years,Male,Hydrocelectomy,Chaziya
+2023,August,2 years ,Male,FB removal,Ndomba
+2023,August,11 months,Male,Herniotomy,Chaziya
+2023,August,3 months,Male,I & D,Chaziya
+2023,August,8 months,Male,Herniotomy,Chaziya
+2023,August,2 years ,Male,Orchidopexy,Chaziya
+2023,August,7 years,Male,Staged Orchidopexy & Gonad biopsy,Chaziya
+2023,August,15 years,Male,Orchidopexy,Chaziya
+2023,August,8 years,Female,Appendectomy,Shapaka
+2023,August,5 years,Male,Tonsillectomy,Chaziya
+2023,August,5 years,Female,Tonsillectomy,Chaziya
+2023,August,14 years,Male,Orchidopexy,Chaziya
+2023,August,9 months ,Female,Herniotomy,Chaziya
+2023,August,13 years,Male,Exploratory Lap.,Chaziya
+2023,August,2 months,Female,I & D,Luboobi
+2023,August,4 years,Male,Hydrocelectomy,Chaziya
+2023,August,11 years,Male,Hydrocelectomy,Chaziya
+2023,August,7 years,Male,Rectal Biopsy,Chaziya
+2023,August,1 year,Female,EUA,Chaziya
+2023,September,2 years 3 months,Female,I & D,MI
+2023,September,1d,Male,Split Sigmoid Colostomy,Chaziya
+2023,September,10 years,Male,Appendectomy,Shapaka
+2023,September,6 months,Male,Rectal Biopsy,Chaziya
+2023,September,11 months,Male,Rectal Biopsy,Chaziya
+2023,September,15 months,Female,I & D,Chaziya
+2023,September,13 months,Female,I & D,MI
+2023,September,9 years,Female,Tonsillectomy,Chaziya
+2023,September,1 year,Male,Tonsillectomy,Chaziya
+2023,September,6 months,Female,Stoma reversal & CVP Insertion,Chaziya
+2023,September,20 months,Female,Tonsillo-adenoidectomy,Chaziya
+2023,September,7 years,Male,Tonsillectomy,Chaziya
+2023,September,4 months,Male,Exploratory Lap.,Chaziya
+2023,September,2 months,Male,I & D,Nyamutukwa
+2023,September,7 years,Female,Fasciotomy,Kabongo
+2023,September,2 years ,Male,FB removal,Ndomba
+2023,September,6 years,Male,Orchidopexy,Chaziya
+2023,September,2 years ,Male,Herniotomy & Orchidopexy,Chaziya
+2023,September,1 year,Female,Excision of Sebaceous cyst,Chaziya
+2023,September,6 months,Female,Rectal Biopsy,Chaziya
+2023,September,1 year,Male,Scrotal exploration,Chaziya
+2023,September,10 years,Female,Fasciotomy,Nyamutukwa
+2023,September,1d,Female,Exploratory Lap. & CVP Insertion,Chaziya
+2023,September,1 year,Male,FB removal,Ndomba
+2023,September,13 months,Female,I & D,Shapaka
+2023,September,2 months,Male,Herniotomy,Chaziya
+2023,September,2 years ,Male,Circumcision,Chaziya
+2023,September,3 years,Female,Colostomy reversal,Chaziya
+2023,September,3 years,Female,Tonsillectomy,Chaziya
+2023,September,7 years,Female,Tonsillectomy,Chaziya
+2023,September,2w,Female,CVP insertion,Chaziya
+2023,September,2w 5d,Female,Duodeno-duodenostomy & Ladd’s Procedure,Chaziya
+2023,September,13 years,Male,Appendectomy,Shapaka
+2023,September,17 months,Female,FB removal,Ndomba
+2023,October,3 years,Male,FB removal,Shapaka
+2023,October,3 years,Male,FB removal,Nyambe
+2023,October,2 years ,Male,Herniotomy & Hydrocectomy,Shapaka
+2023,October,2w,Male,"EUA, Bladder washout",Chaziya
+2023,October,7 years,Male,Herniotomy,Shapaka
+2023,October,5 years,Female,ICD Insertion,Chaziya
+2023,October,7 years,Female,Skin graft,Shapaka
+2023,October,3 years,Male,"Adenoidectomy , Choanal Atresia dilatation and Stenting",Chaziya
+2023,October,11 months,Male,Herniotomy & Hydrocectomy,Shapaka
+2023,October,2 years ,Female,FB removal,Shapaka
+2023,October,2 years 2 months,Male,"Mathieu Technique, Hypospadia repair",Chaziya
+2023,October,10 years,Female,Delayed Primary Wound Closure,Chaziya
+2023,October,7 years,Male,Herniotomy & Hydrocectomy,Shapaka
+2023,October,17 months,Male,FB removal,Chaziya
+2023,October,4 years,Male,Herniotomy & Orchidopexy,Shapaka
+2023,October,3 years,Female,FB removal,Mbuti
+2023,October,11 years,Male,Herniotomy & Orchidopexy,Chaziya
+2023,October,2 years ,Male,FB removal,Shapaka
+2023,October,7 years,Male,Bronco-oesophagoscopy,Shapaka
+2023,October,8 years,Male,Hydrocelectomy,Valera
+2023,October,4 years,Male,Sclerotherapy with Bleomycin,Chaziya
+2023,October,9 years,Male,Orchidopexy,Valera
+2023,October,9 years,Male,Tonsillectomy,Chaziya
+2023,October,2 years ,Male,Fasciotomy,Nduw
+2023,October,10 months,Male,Herniotomy,Shapaka
+2023,October,2 years ,Male,Herniotomy,Valera
+2023,October,5 years,Male,Circumcision,Valera
+2023,October,2 years ,Male,Herniotomy & Hydrocectomy,Shapaka
+2023,October,4 years,Male,Hydrocelectomy & Orchidopexy,Valera
+2023,October,2 years ,Male,Herniotomy & Hydrocectomy,Valera
+2023,October,2 years ,Male,Herniotomy & Hydrocectomy,Valera
+2023,October,3 years,Male,Tonsillo-adenoidectomy,Chaziya
+2023,October,2 years ,Male,Herniotomy & Hydrocectomy,Valera
+2023,October,5 years,Male,Adenoidectomy,Shapaka
+2023,October,3 years,Female,FB removal,Mbidi
+2023,October,7 years,Male,Anal dilatation,Shapaka
+2023,November,2 years ,Male,Hydrocelectomy,Valera
+2023,November,3 years,Male,Tonsillectomy,Shapaka
+2023,November,2 years ,Male,Herniotomy,Valera
+2023,November,4 years,Female,Adenoidectomy,Shapaka
+2023,November,4 years,Male,Hydrocelectomy,Valera
+2023,November,5 years,Male,Urethroplasty & Glanuloplasty,Chaziya
+2023,November,19 months,Male,Rectal Biopsy,Chaziya
+2023,November,11 years,Male,Herniotomy & Hydrocectomy,Iindongo
+2023,November,8 years,Female,Excision of Dermoid cyst,Shapaka
+2023,November,9 years,Female,Herniotomy,Iindongo
+2023,November,7 years,Female,Contracture release,Shapaka
+2023,November,5 years,?,Herniotomy,Shapaka
+2023,November,9 years,Female,Herniotomy,Valera
+2023,November,4 years,Male,Hydrocelectomy,Valera
+2023,November,13 months,Male,Exploratory Lap. Hartmann’s procedure,Chaziya
+2023,November,10 years,Male,Hydrocelectomy,Shapaka
+2023,November,4 years,Male,Herniotomy,Valera
+2023,November,7 years,Male,Herniotomy,Valera
+2023,November,3 years,Female,Excision of Dermoid cyst,Shapaka
+2023,November,8 years,Male,Hydrocelectomy,Valera
+2023,November,2 years ,Male,Hydrocelectomy,Valera
+2023,November,8 years,Female,Tonsillectomy,Shapaka
+2023,November,5 years,Female,Adenoidectomy,Shapaka
+2023,November,6 years,Male,Hydrocelectomy,Shapaka
+2023,November,3 years,Male,Herniotomy,Valera
+2023,November,4 years,Female,Tonsillo-adenoidectomy,Shapaka
+2023,November,2 years ,Male,Hydrocelectomy,Shapaka
+2023,November,1 year,Male,Herniotomy & Hydrocectomy,Valera
+2023,November,2 months,Male,Herniotomy & Circumcision,Valera
+2023,November,12 years,Female,Excision of Dermoid cyst,Chaziya
+2023,November,1 year 11 months,Female,Herniotomy,Valera
+2023,November,1 year,Male,Re-look Laparotomy,Chaziya
+2023,November,8 years,Male,Exploratory Lap. & Loop Ileostomy,Shapaka
+2023,November,1 year,Male,CVP insertion,Chaziya
+2023,November,6 years,Male,Tonsillectomy,Shapaka
+2023,November,5 years,Female,Cauterisation of Genital warts,Nyamutukwa
+2023,November,3w 4d,Male,Exploratory Lap. & Colostomy,Chaziya
+2023,November,5 years,Male,Urethral Calculi Extraction,Shapaka
+2023,November,4 months,Female,Pyloromyotomy & Umbilical Herniotomy,Chaziya
+2023,November,6 years,Male,I & D,MI
+2023,November,3 years,Male,I & D,MI
+2023,November,2 years ,Male,FB removal,Ndomba
+2023,November,4 months,Female,Exploratory Lap. & End-to-end Intestinal Anastomosis,Chaziya
+2023,November,4d,Female,?,Chaziya
+2023,December,1 month,Female,I & D,MI
+2023,December,3 years,Female,FB removal,Ndomba
+2023,December,3 years,Female,EUA,Iindongo
+2023,December,12 years,Male,Exploratory Lap. Appendicitis,Shapaka
+2023,December,2 years ,Male,Excision of cyst,Chaziya
+2023,December,2 years ,Female,Debridement,Shapaka
+2023,December,7 years,Male,EUA & Feaces Evacuation,Shapaka
+2023,December,?,Male,Orchidopexy,Shapaka
+2023,December,?,Female,FB removal,Ndomba
+2023,December,7 years,Male,FB removal,Ndomba
+2023,December,7 months,Male,I & D,Shapaka
+2023,December,2 years and 11 months,Male,Orchidopexy,Mbidi
+2023,December,1w,Female,"Silo application, Gastroschisis",Luboobi
+2023,December,2 years ,Male,Biopsy,Shapaka
+2023,December,12 years,Male,"Exploratory Lap. Peritoneal lavage, Adhesiolysis",Shapaka
+2023,December,3w,Female,Exploratory Lap. End Jejunostomy,Luboobi
+2023,December,11 years,Male,Herniotomy & Orchidopexy,Shapaka
+2023,December,5 years,Female,Herniotomy,Luboobi
+2023,December,8 months,Male,Exploratory Lap. Hemicolectomy & Ileostomy,Shapaka
+2023,December,17 months,Female,Exploratory Lap. Ileocolic anastomosis,Luboobi
+2023,December,11 months,Male,I & D,Shapaka
